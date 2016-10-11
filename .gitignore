@@ -1,0 +1,6 @@
+
+#ignore bower stuff
+bower_components
+
+#ignore my virtual env
+mdjENV

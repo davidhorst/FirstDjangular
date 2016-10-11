@@ -1,0 +1,18 @@
+* {
+  /*outline: 1px dotted red; */
+}
+div.stuff {
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+}
+div.collapsible-body {
+  background-color: #cddcff;
+}
+span.highlighter {
+  display: inline-block;
+  background-color: yellow;
+}
+.row {
+  margin-bottom: 5px;
+}
