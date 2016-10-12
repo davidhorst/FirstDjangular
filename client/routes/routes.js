@@ -13,8 +13,8 @@ app.config(function ($routeProvider) {
             templateUrl: 'client/partials/login.html',
             controller: 'loginController',
         })
-
-        .otherwise({
-          redirectTo: '/'
-        });
+        // 
+        // .otherwise({
+        //   redirectTo: '/'
+        // });
 });
