@@ -23,6 +23,9 @@
     "angular-route": "^1.5.8",
     "jquery": "^3.1.1",
     "materialize": "^0.97.7",
-    "angular-cookies": "^1.5.8"
+    "angular-cookies": "^1.5.8",
+    "angular-jwt": "^0.1.8",
+    "ngstorage": "^0.3.11",
+    "angular-materialize": "^0.2.1"
   }
 }
